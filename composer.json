@@ -1,0 +1,16 @@
+{
+    "name": "baneeishaque/post_data_logger",
+    "description": "Post Data Logger",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.0"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "baneeishaque@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

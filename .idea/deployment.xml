@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="XAMPP" overwriteAll="false" deleteMissingItems="true" createEmptyFolders="true" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Mudra">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/post_data_logger" local="$PROJECT_DIR$" web="/post_data_logger" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/api.http" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="SSqured">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/post_data_logger" local="$PROJECT_DIR$" web="/post_data_logger" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/api.http" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="XAMPP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/post_data_logger" local="$PROJECT_DIR$" web="/post_data_logger" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/api.http" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?php
+
+foreach ($_POST as $param_name => $param_val) {
+    echo "Param: $param_name; Value: $param_val\n";
+}
+
+$post = file_get_contents('php://input');
+echo "Post Data : " . $post;
